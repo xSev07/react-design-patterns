@@ -1,8 +1,8 @@
-import { SplitScreenBase } from "./patterns/split-screen/SplitScreenBase";
-import { ListsBase } from "./patterns/lists/ListsBase";
-import { Modal } from "./patterns/modal/Modal";
-import { products } from "./patterns/lists/ListsBase";
-import { LargeProductListItem } from "./patterns/lists/products/LargeProductListItem";
+import { SplitScreenBase } from "./patterns/layout/split-screen/SplitScreenBase";
+import { ListsBase } from "./patterns/layout/lists/ListsBase";
+import { Modal } from "./patterns/layout/modal/Modal";
+import { products } from "./patterns/layout/lists/ListsBase";
+import { LargeProductListItem } from "./patterns/layout/lists/products/LargeProductListItem";
 
 function App() {
   return ( 
